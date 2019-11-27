@@ -1,0 +1,407 @@
+
+
+body{
+
+	background-color: #000000;/*blue; #ff8a66;*/
+}
+
+/*SHELF TITLE*/
+
+img.box{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 700px;
+	height: 100px;
+	align-content: center;
+	top: 140px;
+	left: 380px;
+
+
+}
+
+h1 {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.8;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 380px;
+	left: 540px;
+
+
+}
+
+h2 {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.8;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 270px;
+	left: 560px;
+
+
+}
+
+h3 {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.8;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 385px;
+	left: 700px;
+
+
+}
+
+h4 {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.6;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 630px;
+	left: 845px;
+
+
+}
+
+h5 {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.7;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 520px;
+	left: 810px;
+
+
+}
+
+h1:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+h2:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+h3:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+h4:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+
+h5:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+
+
+/*SHELF BACKGROUND*/
+
+/*img.shelf{
+
+
+	display: block;
+	margin: 0 auto;
+	width: 1600px;
+	height: 1000px;
+	align-content: center;
+}
+
+
+/*BOOK*/
+
+
+/*img.book{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+	align-content: center;
+	top: 400px;
+	left: 400px;
+
+
+}
+
+img.book:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 230px;
+	height: 230px;
+	top: 380px;
+	left: 400px;
+
+
+}
+
+/*PICTURE OF LAUREN*/
+
+
+/*img.lauren{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 175px;
+	height: 120px;
+	align-content: center;
+	top: 450px;
+	left: 800px;
+
+
+}
+
+img.lauren:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 205px;
+	height: 150px;
+	align-content: center;
+	top: 440px;
+	left: 800px;
+
+
+}
+
+/*JINHO*/
+
+
+/*img.jinho{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 375px;
+	height: 300px;
+	align-content: center;
+	top: 620px;
+	left: 350px;
+
+
+}
+
+
+img.jinho:hover{
+
+	position: absolute;
+	width: 405px;
+	height: 330px;
+	top: 620px;
+	left: 320px;
+
+
+}
+
+/*MY RING*/
+
+/*img.ring{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 275px;
+	height: 200px;
+	align-content: center;
+	top: 440px;
+	left: 530px;
+
+
+}
+
+img.ring:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 350px;
+	height: 250px;
+	top: 400px;
+	left: 500px;
+
+
+}
+
+/*SEASONS PASS*/
+
+/*img.card{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 70px;
+	align-content: center;
+	top: 770px;
+	left: 710px;
+
+
+}
+
+img.card:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 150px;
+	height: 110px;
+	top: 770px;
+	left: 710px;
+
+
+}
+
+/*FAMILIAR SCENT*/
+
+
+/*img.perfume{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 70px;
+	height: 100px;
+	align-content: center;
+	top: 970px;
+	left: 450px;
+
+
+}
+
+img.perfume:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 100px;
+	height: 130px;
+	top: 950px;
+	left: 450px;
+
+
+}
+
+/*BEAR*/
+
+/*img.cubby{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 450px;
+	align-content: center;
+	top: 800px;
+	left: 650px;
+
+
+}
+
+img.cubby:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 330px;
+	height: 480px;
+	top: 800px;
+	left: 650px;
+
+
+}
+
+/*FIGURE*/
+
+
+/*img.groot{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 150px;
+	height: 220px;
+	align-content: center;
+	top: 650px;
+	left: 875px;
+
+
+}
+
+img.groot:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 180px;
+	height: 250px;
+	top: 630px;
+	left: 890px;
+
+
+}
+
+img.ryerson{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 220px;
+	align-content: center;
+	top: 1170px;
+	left: 650px;
+
+
+}
+
+img.ryerson:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 200px;
+	height: 250px;
+	top: 1170px;
+	left: 680px;
+
+
+}
+
+
+

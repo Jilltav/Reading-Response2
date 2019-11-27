@@ -1,0 +1,149 @@
+body{
+
+	background-color: #000000;/*blue; #ff8a66;*/
+}
+
+img.box{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 700px;
+	height: 700px;
+	align-content: center;
+	top: 140px;
+	left: 380px;
+
+
+}
+
+img.jinho{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 375px;
+	height: 300px;
+	align-content: center;
+	top: 520px;
+	left: 350px;
+
+
+}
+
+/*JINHO*/
+
+img.jinho:hover{
+
+	position: absolute;
+	width: 405px;
+	height: 330px;
+	top: 520px;
+	left: 320px;
+
+
+}
+
+img.ring{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 275px;
+	height: 200px;
+	align-content: center;
+	top: 200px;
+	left: 420px;
+
+
+}
+
+img.ring:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 300px;
+	height: 225px;
+	top: 200px;
+	left: 415px;
+
+
+}
+
+img.card{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 70px;
+	align-content: center;
+	top: 670px;
+	left: 760px;
+
+
+}
+
+img.card:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 120px;
+	height: 80px;
+	top: 670px;
+	left: 750px;
+
+
+}
+
+img.cubby{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 450px;
+	align-content: center;
+	top: 150px;
+	left: 570px;
+
+
+}
+
+img.cubby:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 330px;
+	height: 480px;
+	top: 150px;
+	left: 570px;
+
+
+}
+
+img.groot{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 150px;
+	height: 220px;
+	align-content: center;
+	top: 350px;
+	left: 450px;
+
+
+}
+
+img.groot:hover{
+
+	cursor: pointer;
+	position: absolute;
+	width: 180px;
+	height: 250px;
+	top: 350px;
+	left: 450px;
+
+
+}
