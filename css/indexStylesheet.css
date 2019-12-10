@@ -1,0 +1,183 @@
+body{
+
+	background-color: black;
+}
+
+/*TYPOGRAPHIC POSTER*/
+
+a{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 600px;
+	left: 630px;
+
+}
+
+a:hover{
+
+	color: orange;
+
+}
+
+/*ALPHABET LINK*/
+
+div.alpha{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: -20px;
+	left: 0px;
+
+}
+
+div.alpha:hover{
+
+	color: orange;
+
+}
+
+/*ACTII*/
+
+div.cursor{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 85px;
+	left: 35px;
+
+}
+
+div.cursor:hover{
+
+	color: orange;
+
+}
+
+/*ACTIIIBrief*/
+
+div.brief{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 135px;
+	left: 70px;
+
+}
+
+div.brief:hover{
+
+	color: orange;
+
+}
+
+div.garage{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 165px;
+	left: 70px;
+
+}
+
+div.garage:hover{
+
+	color: orange;
+
+}
+
+
+/*INDEX*/
+
+
+h1{
+
+	position: fixed;
+	text-align: center;
+	color: white;
+	font-size: 1em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 10px;
+	left:45vw;
+	
+}
+
+
+
+
+h2{
+
+	position: absolute;
+	color: white;
+	font-size: 5em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 10px;
+	top: 515px;
+	left: 300px;
+}
+
+h3{
+
+	position: absolute;
+	color: white;
+	font-size: 5em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 10px;
+	top: 575px;
+	left: 300px;
+}
+
+h4{
+
+	position: absolute;
+	color: white;
+	font-size: 5em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 10px;
+	top: 625px;
+	left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
