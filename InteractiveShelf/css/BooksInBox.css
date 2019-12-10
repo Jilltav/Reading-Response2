@@ -8,8 +8,8 @@ img.box{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 600px;
-	height: 600px;
+	width: 650px;
+	height: 650px;
 	align-content: center;
 	top: 140px;
 	left: 380px;
@@ -44,6 +44,36 @@ img.old:hover{
 
 }
 
+/*hover text OLD*/
+
+.tooltipold {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipold .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipold:hover .tooltiptext {
+  visibility: visible;
+}
+
 /*BIG Book of new century facts*/
 
 img.big{
@@ -70,6 +100,39 @@ img.big:hover{
 
 
 }
+
+/*hover text BIG*/
+
+.tooltipbig {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipbig .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipbig:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
 
 
 /*GOODFELLOW*/
@@ -99,6 +162,37 @@ img.good:hover{
 
 }
 
+/*hover text good*/
+
+.tooltipgood {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipgood .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipgood:hover .tooltiptext {
+  visibility: visible;
+}
+
+
 /*BOOK OF SECRETS*/
 
 img.secrets{
@@ -124,6 +218,36 @@ img.secrets:hover{
 	left: 700px;
 
 
+}
+
+/*hover text secrets*/
+
+.tooltipsecrets {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipsecrets .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipsecrets:hover .tooltiptext {
+  visibility: visible;
 }
 
 /*1898*/
@@ -153,6 +277,36 @@ img.blue:hover{
 
 }
 
+/*hover text blue*/
+
+.tooltipblue {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipblue .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipblue:hover .tooltiptext {
+  visibility: visible;
+}
+
 /*1904*/
 
 img.green{
@@ -178,6 +332,36 @@ img.green:hover{
 	left: 605px;
 
 
+}
+
+/*hover text green*/
+
+.tooltipgreen {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipgreen .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipgreen:hover .tooltiptext {
+  visibility: visible;
 }
 
 /*eagle*/
@@ -207,6 +391,36 @@ img.eagle:hover{
 
 }
 
+/*hover text eagle*/
+
+.tooltipeagle {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipeagle .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipeagle:hover .tooltiptext {
+  visibility: visible;
+}
+
 /*italian*/
 
 img.italia{
@@ -232,6 +446,36 @@ img.italia:hover{
 	left: 375px;
 
 
+}
+
+/*hover text italia*/
+
+.tooltipitalia {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipitalia .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipitalia:hover .tooltiptext {
+  visibility: visible;
 }
 
 /*joes*/
@@ -261,6 +505,36 @@ img.joes:hover{
 
 }
 
+/*hover text joes*/
+
+.tooltipjoes {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipjoes .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipjoes:hover .tooltiptext {
+  visibility: visible;
+}
+
 /*moby*/
 
 img.moby{
@@ -286,6 +560,36 @@ img.moby:hover{
 	left: 475px;
 
 
+}
+
+/*hover text moby*/
+
+.tooltipmoby {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipmoby .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipmoby:hover .tooltiptext {
+  visibility: visible;
 }
 
 /*kidnapped*/
@@ -315,6 +619,36 @@ img.kidnapped:hover{
 
 }
 
+/*hover text kidnapped*/
+
+.tooltipkidnapped {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipkidnapped .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipkidnapped:hover .tooltiptext {
+  visibility: visible;
+}
+
 /*french*/
 
 img.french{
@@ -340,5 +674,35 @@ img.french:hover{
 	left: 565px;
 
 
+}
+
+/*hover text french*/
+
+.tooltipfrench {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipfrench .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipfrench:hover .tooltiptext {
+  visibility: visible;
 }
 
