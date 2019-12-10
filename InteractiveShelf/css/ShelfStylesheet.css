@@ -48,6 +48,19 @@ img.box{
 
 
 }
+.BoxOfTickets {
+
+	position: absolute;
+	background color: black;
+	opacity: 0.8;
+	font-family: american typewriter;
+	font-size: 1em;
+	letter-spacing: 5px;
+	top: 380px;
+	left: 700px;
+
+
+}
 
 h3 {
 
@@ -107,6 +120,16 @@ h5 {
 
 
 }
+
+.BoxOfTickets:hover{
+
+	cursor: pointer;
+	position: absolute;
+	background-color: white;
+
+
+}
+
 h3:hover{
 
 	cursor: pointer;

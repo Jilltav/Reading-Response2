@@ -1,0 +1,344 @@
+body{
+
+	background-color: #000000;/*blue; #ff8a66;*/
+}
+
+img.box{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+	height: 600px;
+	align-content: center;
+	top: 140px;
+	left: 380px;
+
+
+}
+
+/*700y old book*/
+
+img.old{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 150px;
+	height: 200px;
+	align-content: center;
+	top: 140px;
+	left: 450px;
+
+
+}
+
+img.old:hover{
+
+	position: absolute;
+	width: 155px;
+	height: 205px;
+	top: 140px;
+	left: 452px;
+
+
+}
+
+/*BIG Book of new century facts*/
+
+img.big{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 250px;
+	align-content: center;
+	top: 370px;
+	left: 370px;
+
+
+}
+
+img.big:hover{
+
+	position: absolute;
+	width: 205px;
+	height: 255px;
+	top: 370px;
+	left: 370px;
+
+
+}
+
+
+/*GOODFELLOW*/
+
+img.good{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 180px;
+	height: 255px;
+	align-content: center;
+	top: 500px;
+	left: 525px;
+
+
+}
+
+img.good:hover{
+
+	position: absolute;
+	width: 180px;
+	height: 255px;
+	top: 500px;
+	left: 527px;
+
+
+}
+
+/*BOOK OF SECRETS*/
+
+img.secrets{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 275px;
+	align-content: center;
+	top: 500px;
+	left: 700px;
+
+
+}
+
+img.secrets:hover{
+
+	position: absolute;
+	width: 205px;
+	height: 275px;
+	top: 500px;
+	left: 700px;
+
+
+}
+
+/*1898*/
+
+img.blue{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+	height: 205px;
+	align-content: center;
+	top: 150px;
+	left: 700px;
+
+
+}
+
+img.blue:hover{
+
+	position: absolute;
+	width: 120px;
+	height: 205px;
+	top: 150px;
+	left: 705px;
+
+
+}
+
+/*1904*/
+
+img.green{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+	height: 205px;
+	align-content: center;
+	top: 200px;
+	left: 600px;
+
+
+}
+
+img.green:hover{
+
+	position: absolute;
+	width: 120px;
+	height: 205px;
+	top: 200px;
+	left: 605px;
+
+
+}
+
+/*eagle*/
+
+img.eagle{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 390px;
+	left: 650px;
+
+
+}
+
+img.eagle:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 390px;
+	left: 655px;
+
+
+}
+
+/*italian*/
+
+img.italia{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 280px;
+	left: 370px;
+
+
+}
+
+img.italia:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 280px;
+	left: 375px;
+
+
+}
+
+/*joes*/
+
+img.joes{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 160px;
+	align-content: center;
+	top: 280px;
+	left: 470px;
+
+
+}
+
+img.joes:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 160px;
+	top: 280px;
+	left: 475px;
+
+
+}
+
+/*moby*/
+
+img.moby{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 70px;
+	height: 105px;
+	align-content: center;
+	top: 580px;
+	left: 470px;
+
+
+}
+
+img.moby:hover{
+
+	position: absolute;
+	width: 70px;
+	height: 105px;
+	top: 580px;
+	left: 475px;
+
+
+}
+
+/*kidnapped*/
+
+img.kidnapped{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 380px;
+	left: 740px;
+
+
+}
+
+img.kidnapped:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 380px;
+	left: 745px;
+
+
+}
+
+/*french*/
+
+img.french{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 380px;
+	left: 560px;
+
+
+}
+
+img.french:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 380px;
+	left: 565px;
+
+
+}
+
