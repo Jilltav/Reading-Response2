@@ -1,0 +1,125 @@
+body{
+
+	background-color: #000000;/*blue; #ff8a66;*/
+}
+
+img.box{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	align-content: center;
+	top: 140px;
+	left: 380px;
+
+
+}
+
+/*700y old book*/
+
+img.old{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 250px;
+	align-content: center;
+	top: 140px;
+	left: 400px;
+
+
+}
+
+img.old:hover{
+
+	position: absolute;
+	width: 205px;
+	height: 255px;
+	top: 140px;
+	left: 400px;
+
+
+}
+
+/*BIG Book of new century facts*/
+
+img.big{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 250px;
+	height: 300px;
+	align-content: center;
+	top: 370px;
+	left: 350px;
+
+
+}
+
+img.big:hover{
+
+	position: absolute;
+	width: 255px;
+	height: 305px;
+	top: 370px;
+	left: 350px;
+
+
+}
+
+
+/*GOODFELLOW*/
+
+img.good{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 225px;
+	height: 300px;
+	align-content: center;
+	top: 370px;
+	left: 550px;
+
+
+}
+
+img.good:hover{
+
+	position: absolute;
+	width: 230px;
+	height: 305px;
+	top: 370px;
+	left: 550px;
+
+
+}
+
+img.secrets{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 225px;
+	height: 300px;
+	align-content: center;
+	top: 170px;
+	left: 550px;
+
+
+}
+
+img.secrets:hover{
+
+	position: absolute;
+	width: 230px;
+	height: 305px;
+	top: 170px;
+	left: 550px;
+
+
+}
