@@ -8,11 +8,39 @@ img.box{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 700px;
+	width: 800px;
 	height: 700px;
 	align-content: center;
 	top: 140px;
 	left: 380px;
+
+
+}
+
+/*CUP*/
+
+img.cup{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 175px;
+	height: 300px;
+	align-content: center;
+	top: 420px;
+	left: 650px;
+
+
+}
+
+
+img.cup:hover{
+
+	position: absolute;
+	width: 205px;
+	height: 330px;
+	top: 420px;
+	left: 620px;
 
 
 }
@@ -145,5 +173,416 @@ img.groot:hover{
 	top: 350px;
 	left: 450px;
 
+}
 
+/*prom*/
+
+img.prom{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 135px;
+	height: 200px;
+	align-content: center;
+	top: 220px;
+	left: 850px;
+
+
+}
+
+
+img.prom:hover{
+
+	position: absolute;
+	width: 135px;
+	height: 200px;
+	top: 220px;
+	left: 855px;
+
+
+}
+
+/*elephant*/
+
+img.elephant{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 50px;
+	height: 75px;
+	align-content: center;
+	top: 420px;
+	left: 850px;
+
+
+}
+
+
+img.elephant:hover{
+
+	position: absolute;
+	width: 50px;
+	height: 75px;
+	top: 420px;
+	left: 855px;
+
+
+}
+
+/*skull*/
+
+img.skull{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 175px;
+	align-content: center;
+	top: 470px;
+	left: 850px;
+
+
+}
+
+
+img.skull:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 175px;
+	top: 470px;
+	left: 855px;
+
+
+}
+
+/*ryerson*/
+
+img.ryerson{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 150px;
+	height: 175px;
+	align-content: center;
+	top: 130px;
+	left: 420px;
+
+
+}
+
+
+img.ryerson:hover{
+
+	position: absolute;
+	width: 150px;
+	height: 175px;
+	top: 130px;
+	left: 425px;
+
+
+}
+
+/*hover text ticket*/
+
+.tooltipR {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipR .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipR:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text RING*/
+
+.tooltipG {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipG .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipG:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text CUBBY*/
+
+.tooltipcubby {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipcubby .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipcubby:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text GROOT*/
+
+.tooltipgroot {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipgroot .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipgroot:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text JINHO*/
+
+.tooltipjinho {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipjinho .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipjinho:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text CUP*/
+
+.tooltipcup {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipcup .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipcup:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text PROM*/
+
+.tooltipprom {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipprom .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipprom:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text ELEPHANT*/
+
+.tooltipelephant {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipelephant .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipelephant:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text SKULL*/
+
+.tooltipskull {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipskull .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipskull:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*hover text CARD*/
+
+.tooltipcard {
+  position: absolute;
+  display: inline-block;
+  border-bottom: 2px dotted red;
+}
+
+.tooltipcard .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  font-family: helvetica;
+  letter-spacing: 7px;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 300px;
+  left: 150px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltipcard:hover .tooltiptext {
+  visibility: visible;
 }

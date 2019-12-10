@@ -21,10 +21,10 @@ img.box{
 
 }
 
-h1 {
+.BoxOfObjects {
 
 	position: absolute;
-	background color: black;
+	color: black;
 	opacity: 0.8;
 	font-family: american typewriter;
 	font-size: 1em;
@@ -35,7 +35,7 @@ h1 {
 
 }
 
-h2 {
+.BoxOfBooks {
 
 	position: absolute;
 	background color: black;
@@ -91,7 +91,7 @@ h5 {
 
 }
 
-h1:hover{
+.BoxOfObjects:hover{
 
 	cursor: pointer;
 	position: absolute;
@@ -99,7 +99,7 @@ h1:hover{
 
 
 }
-h2:hover{
+.BoxOfBooks:hover{
 
 	cursor: pointer;
 	position: absolute;

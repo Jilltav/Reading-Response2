@@ -8,8 +8,8 @@ img.box{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 500px;
-	height: 500px;
+	width: 600px;
+	height: 600px;
 	align-content: center;
 	top: 140px;
 	left: 380px;
@@ -24,11 +24,11 @@ img.old{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 200px;
-	height: 250px;
+	width: 150px;
+	height: 200px;
 	align-content: center;
 	top: 140px;
-	left: 400px;
+	left: 450px;
 
 
 }
@@ -36,10 +36,10 @@ img.old{
 img.old:hover{
 
 	position: absolute;
-	width: 205px;
-	height: 255px;
+	width: 155px;
+	height: 205px;
 	top: 140px;
-	left: 400px;
+	left: 452px;
 
 
 }
@@ -51,11 +51,11 @@ img.big{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 250px;
-	height: 300px;
+	width: 200px;
+	height: 250px;
 	align-content: center;
 	top: 370px;
-	left: 350px;
+	left: 370px;
 
 
 }
@@ -63,10 +63,10 @@ img.big{
 img.big:hover{
 
 	position: absolute;
-	width: 255px;
-	height: 305px;
+	width: 205px;
+	height: 255px;
 	top: 370px;
-	left: 350px;
+	left: 370px;
 
 
 }
@@ -79,11 +79,11 @@ img.good{
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 225px;
-	height: 300px;
+	width: 180px;
+	height: 255px;
 	align-content: center;
-	top: 370px;
-	left: 550px;
+	top: 500px;
+	left: 525px;
 
 
 }
@@ -91,24 +91,26 @@ img.good{
 img.good:hover{
 
 	position: absolute;
-	width: 230px;
-	height: 305px;
-	top: 370px;
-	left: 550px;
+	width: 180px;
+	height: 255px;
+	top: 500px;
+	left: 527px;
 
 
 }
+
+/*BOOK OF SECRETS*/
 
 img.secrets{
 
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 225px;
-	height: 300px;
+	width: 200px;
+	height: 275px;
 	align-content: center;
-	top: 170px;
-	left: 550px;
+	top: 500px;
+	left: 700px;
 
 
 }
@@ -116,10 +118,227 @@ img.secrets{
 img.secrets:hover{
 
 	position: absolute;
-	width: 230px;
-	height: 305px;
-	top: 170px;
-	left: 550px;
+	width: 205px;
+	height: 275px;
+	top: 500px;
+	left: 700px;
 
 
 }
+
+/*1898*/
+
+img.blue{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+	height: 205px;
+	align-content: center;
+	top: 150px;
+	left: 700px;
+
+
+}
+
+img.blue:hover{
+
+	position: absolute;
+	width: 120px;
+	height: 205px;
+	top: 150px;
+	left: 705px;
+
+
+}
+
+/*1904*/
+
+img.green{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+	height: 205px;
+	align-content: center;
+	top: 200px;
+	left: 600px;
+
+
+}
+
+img.green:hover{
+
+	position: absolute;
+	width: 120px;
+	height: 205px;
+	top: 200px;
+	left: 605px;
+
+
+}
+
+/*eagle*/
+
+img.eagle{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 390px;
+	left: 650px;
+
+
+}
+
+img.eagle:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 390px;
+	left: 655px;
+
+
+}
+
+/*italian*/
+
+img.italia{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 280px;
+	left: 370px;
+
+
+}
+
+img.italia:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 280px;
+	left: 375px;
+
+
+}
+
+/*joes*/
+
+img.joes{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 160px;
+	align-content: center;
+	top: 280px;
+	left: 470px;
+
+
+}
+
+img.joes:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 160px;
+	top: 280px;
+	left: 475px;
+
+
+}
+
+/*moby*/
+
+img.moby{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 70px;
+	height: 105px;
+	align-content: center;
+	top: 580px;
+	left: 470px;
+
+
+}
+
+img.moby:hover{
+
+	position: absolute;
+	width: 70px;
+	height: 105px;
+	top: 580px;
+	left: 475px;
+
+
+}
+
+/*kidnapped*/
+
+img.kidnapped{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 380px;
+	left: 740px;
+
+
+}
+
+img.kidnapped:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 380px;
+	left: 745px;
+
+
+}
+
+/*french*/
+
+img.french{
+
+	position: absolute;
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 155px;
+	align-content: center;
+	top: 380px;
+	left: 560px;
+
+
+}
+
+img.french:hover{
+
+	position: absolute;
+	width: 100px;
+	height: 155px;
+	top: 380px;
+	left: 565px;
+
+
+}
+
