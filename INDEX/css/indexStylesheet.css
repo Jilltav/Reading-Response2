@@ -114,9 +114,9 @@ h1{
 
 	position: fixed;
 	text-align: center;
-	color: white;
+	color: orange;
 	font-size: 1em;
-	font-family: american typewriter; 
+	font-family: american typewriter;
 	line-height: 0px;
 	letter-spacing: 10px;
 	left:45vw;
@@ -160,6 +160,91 @@ h4{
 	letter-spacing: 10px;
 	top: 625px;
 	left: 300px;
+}
+
+h5{
+
+	position: absolute;
+	color: white;
+	font-size: 1em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 800px;
+	left: 300px;
+}
+
+/*The turing complete user*/
+
+div.turing{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 260px;
+	left: -330px;
+
+}
+
+div.turing:hover{
+
+	color: orange;
+
+}
+
+/*The poerty of tool reading*/
+
+div.poetry{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 280px;
+	left: -330px;
+
+}
+
+div.poetry:hover{
+
+	color: orange;
+
+}
+
+div.web{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: 300px;
+	left: -330px;
+
+}
+
+div.web:hover{
+
+	color: orange;
+
+}
+
+div.resources{
+
+	position: absolute;
+	color: white;
+	font-size: 0.5em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 5px;
+	top: -200px;
+	left: -320px;
 }
 
 

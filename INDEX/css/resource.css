@@ -1,0 +1,29 @@
+body{
+
+	background-color: black;
+}
+
+h1{
+
+	position: absolute;
+	color: orange;
+	font-size: 5em;
+	font-family: notable; 
+	line-height: 0px;
+	letter-spacing: 10px;
+	top: 625px;
+	left: 300px;
+}
+
+p{
+
+	position: absolute;
+	color: orange;
+	font-size: 0.5em;
+	font-family: american typewriter; 
+	line-height: 20px;
+	letter-spacing: 5px;
+	top: 100px;
+	left: 630px;
+
+}
