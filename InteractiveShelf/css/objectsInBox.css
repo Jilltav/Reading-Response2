@@ -3,12 +3,12 @@ body{
 	background-color: #000000;/*blue; #ff8a66;*/
 }
 
-img.box{
+img.carpet{
 
 	position: absolute;
 	display: block;
 	margin: 0 auto;
-	width: 800px;
+	width: 700px;
 	height: 700px;
 	align-content: center;
 	top: 140px;
